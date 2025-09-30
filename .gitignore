@@ -2,3 +2,20 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Flutter/Dart specific
+ecommerce_app/.dart_tool/
+ecommerce_app/.packages
+ecommerce_app/.pub/
+ecommerce_app/build/
+ecommerce_app/.flutter-plugins
+ecommerce_app/.flutter-plugins-dependencies
+ecommerce_app/.metadata
+ecommerce_app/pubspec.lock
+ecommerce_app/android/
+ecommerce_app/ios/
+ecommerce_app/linux/
+ecommerce_app/macos/
+ecommerce_app/windows/
+ecommerce_app/web/
+ecommerce_app/test/
